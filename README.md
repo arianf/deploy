@@ -1,2 +1,2 @@
 # deploy
-A Node JS application that does GitHub deployment
+A simple CLI tool for ensuring that allows continual deployment from a GitHub Repo.
